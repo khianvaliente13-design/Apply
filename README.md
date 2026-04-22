@@ -1,8 +1,8 @@
-# 🎬 Khian — Personal Portfolio
+# 🎬 Khian Personal Portfolio
 
 > Cinematographer · Video Editor · Frontend Developer · Creator of [@catmemeshorts](https://www.facebook.com/profile.php?id=61572818214002)
 
-A dark-themed, animated personal portfolio website built with pure **HTML, CSS, and Vanilla JavaScript** — no frameworks, no dependencies.
+A dark-themed, animated personal portfolio website built with pure **HTML, CSS, and Vanilla JavaScript** no frameworks, no dependencies.
 
 ---
 
